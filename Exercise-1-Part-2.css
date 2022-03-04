@@ -2,7 +2,11 @@ body {
     margin: 0 auto;
     text-align: center;
 }
-
+hr {
+    background-color: yellow;
+    height: 1px;
+    border: none;
+}
 #parent {
    white-space: nowrap;
     overflow-x: auto;
