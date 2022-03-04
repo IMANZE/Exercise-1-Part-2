@@ -7,11 +7,7 @@ hr {
     height: 1px;
     border: none;
 }
-#parent {
-   white-space: nowrap;
-    overflow-x: auto;
-}
-.together {
-    display: inline-block;
-    
+#top {
+   color: darkcyan;
+
 }
