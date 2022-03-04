@@ -1,0 +1,13 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#parent {
+   white-space: nowrap;
+    overflow-x: auto;
+}
+.together {
+    display: inline-block;
+    
+}
