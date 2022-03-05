@@ -1,7 +1,21 @@
-body {
-    margin: 0 auto;
+
+.main-container{
+    
+justify-content: center;
+}
+
+#container{
+    width: fit-content;
+    margin:0 auto;
+ }   
+ 
+   
+
+.topmost{
     text-align: center;
 }
+
+
 hr {
     background-color: yellow;
     height: 1px;
@@ -9,5 +23,24 @@ hr {
 }
 #top {
    color: darkcyan;
-
 }
+
+#focaccia {
+    color: lightslategrey;
+    text-align: center;
+}
+#featured {
+    color: chocolate;
+    margin-bottom: 0;
+}
+.cranberry{
+    color: darkcyan;
+}
+#fresh {
+    margin-top: 0;
+    
+}
+.logo{
+    text-align: center;
+}
+
