@@ -4,7 +4,7 @@
 justify-content: center;
 }
 
-#container{
+.container{
     width: fit-content;
     margin:0 auto;
  }   
@@ -14,29 +14,42 @@ justify-content: center;
 .topmost{
     text-align: center;
 }
+.line{
+    border-left: 2px solid yellow ;
+    padding-left: 10px;
+}
 
 
 hr {
-    background-color: yellow;
-    height: 1px;
+    background-color:aqua;
+   height: 0.06px;
     border: none;
 }
-#top {
-   color: darkcyan;
+.focaccia-image{
+    border-radius: 3%;
 }
 
-#focaccia {
+.top {
+   color: darkcyan;
+   padding-top: 9px;
+   padding-bottom: 9px;
+   background-color: rgb(251, 250, 237);
+   border-top: 1px solid yellow;
+}
+
+
+.focaccia {
     color: lightslategrey;
     text-align: center;
 }
-#featured {
+.featured {
     color: chocolate;
     margin-bottom: 0;
 }
 .cranberry{
     color: darkcyan;
 }
-#fresh {
+.fresh {
     margin-top: 0;
     
 }
